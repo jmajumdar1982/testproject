@@ -3,5 +3,4 @@ This is file2.
 06-02-2017 @ 00:35: Additional changes added as requested
 06-02-2017 @ 01:46: Some more changed added
 07-02-2017 @ 00:42: New changes added as per TT123456
-07-02-2017 @ 20:43: Changes added as per TT12345
-07-02-2017 @ 20:50: Changes added as per X654321
+07-02-2017 @ 21:00: Emergency change added as per CRQ987654321
